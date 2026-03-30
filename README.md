@@ -1,4 +1,4 @@
 # Beginning-with-Git-hub
 This is my first git-hub repo
 <br>
-Author ~ ANKIT RAJ
+Author ~ ANKIT RAJ(BIT SINDRI)
